@@ -1,0 +1,24 @@
+{
+  "infosys": {
+    "company_name": "Infosys",
+    "link": "http://infosys.com",
+    "description": "Infosys Limited is an Indian multinational corporation that provides business consulting, information technology and outsourcing services. It has its headquarters in Bangalore, Karnataka, India.",
+    "headquarters": "Bangalore",
+    "key_people": "Salil Parekh",
+    "founded": "1981",
+    "social_media": [
+      {
+        "platform": "Twitter",
+        "link": "https://twitter.com"
+      },
+      {
+        "platform": "Linkedin",
+        "link": "#"
+      },
+      {
+        "platform": "Facebook",
+        "link": "#"
+      }
+    ]
+  }
+}
